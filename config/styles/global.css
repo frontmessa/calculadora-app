@@ -74,3 +74,9 @@
 #mainContainer #buttonsContainer #result {
     background-color: rgb(248, 147, 31);
 }
+body{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center; 
+}
